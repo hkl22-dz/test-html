@@ -9,6 +9,9 @@
   <body>
     <h1>Mozilla is cool</h1>
   <a href="http://127.0.0.1:1337/flag.txt">Click to view flag</a>
+<object data="http://localhost:1337/flag.txt" type="text/plain" width="500" height="300">
+  This browser does not support inline viewing of the flag.
+</object>
     <img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
   
     <p>At Mozilla, we’re a global community of</p>
